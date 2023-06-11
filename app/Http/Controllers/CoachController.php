@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\Coach\CoachCollection;
+use App\Http\Resources\Coach\CoachCollection;   
 use App\Http\Resources\Coach\CoachResource;
 use App\Models\Coach;
 use App\Models\Team;

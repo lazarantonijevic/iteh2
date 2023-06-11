@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Resources\Team\TeamCollection;
-use App\Http\Resources\Team\TeamResource;
+use App\Http\Resources\Team\TeamResource;   
 use App\Models\Team;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;

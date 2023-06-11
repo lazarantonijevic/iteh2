@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Resources\Player\PlayerCollection;
-use App\Http\Resources\Player\PlayerResource;
+use App\Http\Resources\Player\PlayerResource;   
 use App\Models\Player;
 use App\Models\Team;
 use Illuminate\Http\Request;
